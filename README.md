@@ -33,3 +33,5 @@
 ├── 📊 data-analysis/       # 데이터 분석 및 지표 설정 스터디
 ├── 👥 user-research/       # 유저 리서치 및 인터뷰 아티클 정리
 └── README.md               # 본 문서
+
+GitHub CLI 실습 중
