@@ -34,4 +34,4 @@
 ├── 👥 user-research/       # 유저 리서치 및 인터뷰 아티클 정리
 └── README.md               # 본 문서
 
-GitHub CLI 실습 중
+GitHub CLI 실습을 에이전트와 함께 성공적으로 진행 중입니다!
